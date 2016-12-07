@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: b650e1d148b42ad4eb11a61df4bd0494
+timeCreated: 1481103698
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SciFi Atlas_0
+    21300002: SciFi Atlas_1
+    21300004: SciFi Atlas_2
+    21300006: SciFi Atlas_3
+    21300008: SciFi Atlas_4
+    21300010: SciFi Atlas_5
+    21300012: SciFi Atlas_6
+    21300014: SciFi Atlas_7
+    21300016: SciFi Atlas_8
+    21300018: SciFi Atlas_9
+    21300020: SciFi Atlas_10
+    21300022: SciFi Atlas_11
+    21300024: SciFi Atlas_12
+    21300026: SciFi Atlas_13
+    21300028: SciFi Atlas_14
+    21300030: SciFi Atlas_15
+    21300032: SciFi Atlas_16
+    21300034: SciFi Atlas_17
+    21300036: SciFi Atlas_18
+    21300038: SciFi Atlas_19
+    21300040: SciFi Atlas_20
+    21300042: SciFi Atlas_21
+    21300044: SciFi Atlas_22
+    21300046: SciFi Atlas_23
+    21300048: SciFi Atlas_24
+    21300050: SciFi Atlas_25
+    21300052: SciFi Atlas_26
+    21300054: SciFi Atlas_27
+    21300056: SciFi Atlas_28
+    21300058: SciFi Atlas_29
+    21300060: SciFi Atlas_30
+    21300062: SciFi Atlas_31
+    21300064: SciFi Atlas_32
+    21300066: SciFi Atlas_33
+    21300068: SciFi Atlas_34
+    21300070: SciFi Atlas_35
+    21300072: SciFi Atlas_36
+    21300074: SciFi Atlas_37
+    21300076: SciFi Atlas_38
+    21300078: SciFi Atlas_39
+    21300080: SciFi Atlas_40
+    21300082: SciFi Atlas_41
+    21300084: SciFi Atlas_42
+    21300086: SciFi Atlas_43
+    21300088: SciFi Atlas_44
+    21300090: SciFi Atlas_45
+    21300092: SciFi Atlas_46
+    21300094: SciFi Atlas_47
+    21300096: SciFi Atlas_48
+    21300098: SciFi Atlas_49
+    21300100: SciFi Atlas_50
+    21300102: SciFi Atlas_51
+    21300104: SciFi Atlas_52
+    21300106: SciFi Atlas_53
+    21300108: SciFi Atlas_54
+    21300110: SciFi Atlas_55
+    21300112: SciFi Atlas_56
+    21300114: SciFi Atlas_57
+    21300116: SciFi Atlas_58
+    21300118: SciFi Atlas_59
+    21300120: SciFi Atlas_60
+    21300122: SciFi Atlas_61
+    21300124: SciFi Atlas_62
+    21300126: SciFi Atlas_63
+    21300128: SciFi Atlas_64
+    21300130: SciFi Atlas_65
+    21300132: SciFi Atlas_66
+    21300134: SciFi Atlas_67
+    21300136: SciFi Atlas_68
+    21300138: SciFi Atlas_69
+    21300140: SciFi Atlas_70
+    21300142: SciFi Atlas_71
+    21300144: SciFi Atlas_72
+    21300146: SciFi Atlas_73
+    21300148: SciFi Atlas_74
+    21300150: SciFi Atlas_75
+    21300152: SciFi Atlas_76
+    21300154: SciFi Atlas_77
+    21300156: SciFi Atlas_78
+    21300158: SciFi Atlas_79
+    21300160: SciFi Atlas_80
+    21300162: SciFi Atlas_81
+    21300164: SciFi Atlas_82
+    21300166: SciFi Atlas_83
+    21300168: SciFi Atlas_84
+    21300170: SciFi Atlas_85
+    21300172: SciFi Atlas_86
+    21300174: SciFi Atlas_87
+    21300176: SciFi Atlas_88
+    21300178: SciFi Atlas_89
+    21300180: SciFi Atlas_90
+    21300182: SciFi Atlas_91
+    21300184: SciFi Atlas_92
+    21300186: SciFi Atlas_93
+    21300188: SciFi Atlas_94
+    21300190: SciFi Atlas_95
+    21300192: SciFi Atlas_96
+    21300194: SciFi Atlas_97
+    21300196: SciFi Atlas_98
+    21300198: SciFi Atlas_99
+    21300200: SciFi Atlas_100
+    21300202: SciFi Atlas_101
+    21300204: SciFi Atlas_102
+    21300206: SciFi Atlas_103
+    21300208: SciFi Atlas_104
+    21300210: SciFi Atlas_105
+    21300212: SciFi Atlas_106
+    21300214: SciFi Atlas_107
+    21300216: SciFi Atlas_108
+    21300218: SciFi Atlas_109
+    21300220: SciFi Atlas_110
+    21300222: SciFi Atlas_111
+    21300224: SciFi Atlas_112
+    21300226: SciFi Atlas_113
+    21300228: SciFi Atlas_114
+    21300230: SciFi Atlas_115
+    21300232: SciFi Atlas_116
+    21300234: SciFi Atlas_117
+    21300236: SciFi Atlas_118
+    21300238: SciFi Atlas_119
+    21300240: SciFi Atlas_120
+    21300242: SciFi Atlas_121
+    21300244: SciFi Atlas_122
+    21300246: SciFi Atlas_123
+    21300248: SciFi Atlas_124
+    21300250: SciFi Atlas_125
+    21300252: SciFi Atlas_126
+    21300254: SciFi Atlas_127
+    21300256: SciFi Atlas_128
+    21300258: SciFi Atlas_129
+    21300260: SciFi Atlas_130
+    21300262: SciFi Atlas_131
+    21300264: SciFi Atlas_132
+    21300266: SciFi Atlas_133
+    21300268: SciFi Atlas_134
+    21300270: SciFi Atlas_135
+    21300272: SciFi Atlas_136
+    21300274: SciFi Atlas_137
+    21300276: SciFi Atlas_138
+    21300278: SciFi Atlas_139
+    21300280: SciFi Atlas_140
+    21300282: SciFi Atlas_141
+    21300284: SciFi Atlas_142
+    21300286: SciFi Atlas_143
+    21300288: SciFi Atlas_144
+    21300290: SciFi Atlas_145
+    21300292: SciFi Atlas_146
+    21300294: SciFi Atlas_147
+    21300296: SciFi Atlas_148
+    21300298: SciFi Atlas_149
+    21300300: SciFi Atlas_150
+    21300302: SciFi Atlas_151
+    21300304: SciFi Atlas_152
+    21300306: SciFi Atlas_153
+    21300308: SciFi Atlas_154
+    21300310: SciFi Atlas_155
+    21300312: SciFi Atlas_156
+    21300314: SciFi Atlas_157
+    21300316: SciFi Atlas_158
+    21300318: SciFi Atlas_159
+    21300320: SciFi Atlas_160
+    21300322: SciFi Atlas_161
+    21300324: SciFi Atlas_162
+    21300326: SciFi Atlas_163
+    21300328: SciFi Atlas_164
+    21300330: SciFi Atlas_165
+    21300332: SciFi Atlas_166
+    21300334: SciFi Atlas_167
+    21300336: SciFi Atlas_168
+    21300338: SciFi Atlas_169
+    21300340: SciFi Atlas_170
+    21300342: SciFi Atlas_171
+    21300344: SciFi Atlas_172
+    21300346: SciFi Atlas_173
+    21300348: SciFi Atlas_174
+    21300350: SciFi Atlas_175
+    21300352: SciFi Atlas_176
+    21300354: SciFi Atlas_177
+    21300356: SciFi Atlas_178
+    21300358: SciFi Atlas_179
+    21300360: SciFi Atlas_180
+    21300362: SciFi Atlas_181
+    21300364: SciFi Atlas_182
+    21300366: SciFi Atlas_183
+    21300368: SciFi Atlas_184
+    21300370: SciFi Atlas_185
+    21300372: SciFi Atlas_186
+    21300374: SciFi Atlas_187
+    21300376: SciFi Atlas_188
+    21300378: SciFi Atlas_189
+    21300380: SciFi Atlas_190
+    21300382: SciFi Atlas_191
+    21300384: SciFi Atlas_192
+    21300386: SciFi Atlas_193
+    21300388: SciFi Atlas_194
+    21300390: SciFi Atlas_195
+    21300392: SciFi Atlas_196
+    21300394: SciFi Atlas_197
+    21300396: SciFi Atlas_198
+    21300398: SciFi Atlas_199
+    21300400: SciFi Atlas_200
+    21300402: SciFi Atlas_201
+    21300404: SciFi Atlas_202
+    21300406: SciFi Atlas_203
+    21300408: SciFi Atlas_204
+    21300410: SciFi Atlas_205
+    21300412: SciFi Atlas_206
+    21300414: SciFi Atlas_207
+    21300416: SciFi Atlas_208
+    21300418: SciFi Atlas_209
+    21300420: SciFi Atlas_210
+    21300422: SciFi Atlas_211
+    21300424: SciFi Atlas_212
+    21300426: SciFi Atlas_213
+    21300428: SciFi Atlas_214
+    21300430: SciFi Atlas_215
+    21300432: SciFi Atlas_216
+    21300434: SciFi Atlas_217
+    21300436: SciFi Atlas_218
+    21300438: SciFi Atlas_219
+    21300440: SciFi Atlas_220
+    21300442: SciFi Atlas_221
+    21300444: SciFi Atlas_222
+    21300446: SciFi Atlas_223
+    21300448: SciFi Atlas_224
+    21300450: SciFi Atlas_225
+    21300452: SciFi Atlas_226
+    21300454: SciFi Atlas_227
+    21300456: SciFi Atlas_228
+    21300458: SciFi Atlas_229
+    21300460: SciFi Atlas_230
+    21300462: SciFi Atlas_231
+    21300464: SciFi Atlas_232
+    21300466: SciFi Atlas_233
+    21300468: SciFi Atlas_234
+    21300470: SciFi Atlas_235
+    21300472: SciFi Atlas_236
+    21300474: SciFi Atlas_237
+    21300476: SciFi Atlas_238
+    21300478: SciFi Atlas_239
+    21300480: SciFi Atlas_240
+    21300482: SciFi Atlas_241
+    21300484: SciFi Atlas_242
+    21300486: SciFi Atlas_243
+    21300488: SciFi Atlas_244
+    21300490: SciFi Atlas_245
+    21300492: SciFi Atlas_246
+    21300494: SciFi Atlas_247
+    21300496: SciFi Atlas_248
+    21300498: SciFi Atlas_249
+    21300500: SciFi Atlas_250
+    21300502: SciFi Atlas_251
+    21300504: SciFi Atlas_252
+    21300506: SciFi Atlas_253
+    21300508: SciFi Atlas_254
+    21300510: SciFi Atlas_255
+    21300512: SciFi Atlas_256
+    21300514: SciFi Atlas_257
+    21300516: SciFi Atlas_258
+    21300518: SciFi Atlas_259
+    21300520: SciFi Atlas_260
+    21300522: SciFi Atlas_261
+    21300524: SciFi Atlas_262
+    21300526: SciFi Atlas_263
+    21300528: SciFi Atlas_264
+    21300530: SciFi Atlas_265
+    21300532: SciFi Atlas_266
+    21300534: SciFi Atlas_267
+    21300536: SciFi Atlas_268
+    21300538: SciFi Atlas_269
+    21300540: SciFi Atlas_270
+    21300542: SciFi Atlas_271
+    21300544: SciFi Atlas_272
+    21300546: SciFi Atlas_273
+    21300548: SciFi Atlas_274
+    21300550: SciFi Atlas_275
+    21300552: SciFi Atlas_276
+    21300554: SciFi Atlas_277
+    21300556: SciFi Atlas_278
+    21300558: SciFi Atlas_279
+    21300560: SciFi Atlas_280
+    21300562: SciFi Atlas_281
+    21300564: SciFi Atlas_282
+    21300566: SciFi Atlas_283
+    21300568: SciFi Atlas_284
+    21300570: SciFi Atlas_285
+    21300572: SciFi Atlas_286
+    21300574: SciFi Atlas_287
+    21300576: SciFi Atlas_288
+    21300578: SciFi Atlas_289
+    21300580: SciFi Atlas_290
+    21300582: SciFi Atlas_291
+    21300584: SciFi Atlas_292
+    21300586: SciFi Atlas_293
+    21300588: SciFi Atlas_294
+    21300590: SciFi Atlas_295
+    21300592: SciFi Atlas_296
+    21300594: SciFi Atlas_297
+    21300596: SciFi Atlas_298
+    21300598: SciFi Atlas_299
+    21300600: SciFi Atlas_300
+    21300602: SciFi Atlas_301
+    21300604: SciFi Atlas_302
+    21300606: SciFi Atlas_303
+    21300608: SciFi Atlas_304
+    21300610: SciFi Atlas_305
+    21300612: SciFi Atlas_306
+    21300614: SciFi Atlas_307
+    21300616: SciFi Atlas_308
+    21300618: SciFi Atlas_309
+    21300620: SciFi Atlas_310
+    21300622: SciFi Atlas_311
+    21300624: SciFi Atlas_312
+    21300626: SciFi Atlas_313
+    21300628: SciFi Atlas_314
+    21300630: SciFi Atlas_315
+    21300632: SciFi Atlas_316
+    21300634: SciFi Atlas_317
+    21300636: SciFi Atlas_318
+    21300638: SciFi Atlas_319
+    21300640: SciFi Atlas_320
+    21300642: SciFi Atlas_321
+    21300644: SciFi Atlas_322
+    21300646: SciFi Atlas_323
+    21300648: SciFi Atlas_324
+    21300650: SciFi Atlas_325
+    21300652: SciFi Atlas_326
+    21300654: SciFi Atlas_327
+    21300656: SciFi Atlas_328
+    21300658: SciFi Atlas_329
+    21300660: SciFi Atlas_330
+    21300662: SciFi Atlas_331
+    21300664: SciFi Atlas_332
+    21300666: SciFi Atlas_333
+    21300668: SciFi Atlas_334
+    21300670: SciFi Atlas_335
+    21300672: SciFi Atlas_336
+    21300674: SciFi Atlas_337
+    21300676: SciFi Atlas_338
+    21300678: SciFi Atlas_339
+    21300680: SciFi Atlas_340
+    21300682: SciFi Atlas_341
+    21300684: SciFi Atlas_342
+    21300686: SciFi Atlas_343
+    21300688: SciFi Atlas_344
+    21300690: SciFi Atlas_345
+    21300692: SciFi Atlas_346
+    21300694: SciFi Atlas_347
+    21300696: SciFi Atlas_348
+    21300698: SciFi Atlas_349
+    21300700: SciFi Atlas_350
+    21300702: SciFi Atlas_351
+    21300704: SciFi Atlas_352
+    21300706: SciFi Atlas_353
+    21300708: SciFi Atlas_354
+    21300710: SciFi Atlas_355
+    21300712: SciFi Atlas_356
+    21300714: SciFi Atlas_357
+    21300716: SciFi Atlas_358
+    21300718: SciFi Atlas_359
+    21300720: SciFi Atlas_360
+    21300722: SciFi Atlas_361
+    21300724: SciFi Atlas_362
+    21300726: SciFi Atlas_363
+    21300728: SciFi Atlas_364
+    21300730: SciFi Atlas_365
+    21300732: SciFi Atlas_366
+    21300734: SciFi Atlas_367
+    21300736: SciFi Atlas_368
+    21300738: SciFi Atlas_369
+    21300740: SciFi Atlas_370
+    21300742: SciFi Atlas_371
+    21300744: SciFi Atlas_372
+    21300746: SciFi Atlas_373
+    21300748: SciFi Atlas_374
+    21300750: SciFi Atlas_375
+    21300752: SciFi Atlas_376
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SciFi Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 23
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
